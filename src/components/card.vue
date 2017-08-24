@@ -11,19 +11,19 @@ export default {
 </script>
 
 <template>
-	<div class="card">
-		<div class="card--title">{{ title }}</div>
-		<img class="card--image" :src="imageSrc">
+	<div class="card-display">
+		<div class="card-display--title">{{ title }}</div>
+		<img class="card-display--image" :src="imageSrc">
 	</div>
 </template>
 
 <style lang="scss">
-.card {
+.card-display {
 	max-width: 20%;
 	text-align: center;
 	display: inline-block;
 
-	.card--title {
+	.card-display--title {
 		text-align: center;
 		font-family: sans-serif;
 		font-size: 16px;
@@ -31,7 +31,7 @@ export default {
 		color: #eee;
 	}
 
-	.card--image {
+	.card-display--image {
 		max-height: 100%;
 		max-width: 100%;
 		box-sizing: border-box;
