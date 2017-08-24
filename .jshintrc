@@ -1,0 +1,6 @@
+{
+	"browser": true,
+	"globalstrict": true,
+	"esnext": true,
+	"laxbreak": true
+}

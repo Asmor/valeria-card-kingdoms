@@ -1,0 +1,212 @@
+[
+	{
+		"name": "Barrens",
+		"bucket": "monster",
+		"imgSrc": "images/monster-barrens.png"
+	},
+	{
+		"name": "Cavern",
+		"bucket": "monster",
+		"imgSrc": "images/monster-cavern.png"
+	},
+	{
+		"name": "Desert",
+		"bucket": "monster",
+		"imgSrc": "images/monster-desert.png"
+	},
+	{
+		"name": "Forest",
+		"bucket": "monster",
+		"imgSrc": "images/monster-forest.png"
+	},
+	{
+		"name": "Glacier",
+		"bucket": "monster",
+		"imgSrc": "images/monster-glacier.png"
+	},
+	{
+		"name": "Hills",
+		"bucket": "monster",
+		"imgSrc": "images/monster-hills.png"
+	},
+	{
+		"name": "Mountains",
+		"bucket": "monster",
+		"imgSrc": "images/monster-mountains.png"
+	},
+	{
+		"name": "Oasis",
+		"bucket": "monster",
+		"imgSrc": "images/monster-oasis.png"
+	},
+	{
+		"name": "Ruins",
+		"bucket": "monster",
+		"imgSrc": "images/monster-ruins.png"
+	},
+	{
+		"name": "Swamp",
+		"bucket": "monster",
+		"imgSrc": "images/monster-swamp.png"
+	},
+	{
+		"name": "Tundra",
+		"bucket": "monster",
+		"imgSrc": "images/monster-tundra.png"
+	},
+	{
+		"name": "Undead Samurai",
+		"bucket": "monster",
+		"imgSrc": "images/monster-undead-samurai.png"
+	},
+	{
+		"name": "Valley",
+		"bucket": "monster",
+		"imgSrc": "images/monster-valley.png"
+	},
+	{
+		"name": "Volcano",
+		"bucket": "monster",
+		"imgSrc": "images/monster-volcano.png"
+	},
+	{
+		"name": "Cleric",
+		"bucket": "01",
+		"imgSrc": "images/01-cleric.png"
+	},
+	{
+		"name": "Monk",
+		"bucket": "01",
+		"imgSrc": "images/01-monk.png"
+	},
+	{
+		"name": "Summoner",
+		"bucket": "01",
+		"imgSrc": "images/01-summoner.png"
+	},
+	{
+		"name": "Bard",
+		"bucket": "02",
+		"imgSrc": "images/02-bard.png"
+	},
+	{
+		"name": "Blacksmith",
+		"bucket": "02",
+		"imgSrc": "images/02-blacksmith.png"
+	},
+	{
+		"name": "Merchant",
+		"bucket": "02",
+		"imgSrc": "images/02-merchant.png"
+	},
+	{
+		"name": "Alchemist",
+		"bucket": "03",
+		"imgSrc": "images/03-alchemist.png"
+	},
+	{
+		"name": "Mercenary",
+		"bucket": "03",
+		"imgSrc": "images/03-mercenary.png"
+	},
+	{
+		"name": "Sorceress",
+		"bucket": "03",
+		"imgSrc": "images/03-sorceress.png"
+	},
+	{
+		"name": "Archer",
+		"bucket": "04",
+		"imgSrc": "images/04-archer.png"
+	},
+	{
+		"name": "Barbarian",
+		"bucket": "04",
+		"imgSrc": "images/04-barbarian.png"
+	},
+	{
+		"name": "Wizard",
+		"bucket": "04",
+		"imgSrc": "images/04-wizard.png"
+	},
+	{
+		"name": "Alt. Peasant",
+		"bucket": "05",
+		"imgSrc": "images/05-alt-peasant.png"
+	},
+	{
+		"name": "Peasant",
+		"bucket": "05",
+		"imgSrc": "images/05-peasant.png"
+	},
+	{
+		"name": "Alt. Knight",
+		"bucket": "06",
+		"imgSrc": "images/06-alt-knight.png"
+	},
+	{
+		"name": "Knight",
+		"bucket": "06",
+		"imgSrc": "images/06-knight.png"
+	},
+	{
+		"name": "Condottiere",
+		"bucket": "07",
+		"imgSrc": "images/07-condottiere.png"
+	},
+	{
+		"name": "Rogue",
+		"bucket": "07",
+		"imgSrc": "images/07-rogue.png"
+	},
+	{
+		"name": "Thief",
+		"bucket": "07",
+		"imgSrc": "images/07-thief.png"
+	},
+	{
+		"name": "Bogatyr",
+		"bucket": "08",
+		"imgSrc": "images/08-bogatyr.png"
+	},
+	{
+		"name": "Champion",
+		"bucket": "08",
+		"imgSrc": "images/08-champion.png"
+	},
+	{
+		"name": "Warlord",
+		"bucket": "08",
+		"imgSrc": "images/08-warlord.png"
+	},
+	{
+		"name": "Paladin",
+		"bucket": "09",
+		"imgSrc": "images/09-10-paladin.png"
+	},
+	{
+		"name": "Priestess",
+		"bucket": "09",
+		"imgSrc": "images/09-10-priestess.png"
+	},
+	{
+		"name": "Templar",
+		"bucket": "09",
+		"imgSrc": "images/09-10-templar.png"
+	},
+	{
+		"name": "Baker",
+		"bucket": "11",
+		"imgSrc": "images/11-12-baker.png"
+	},
+	{
+		"name": "Butcher",
+		"bucket": "11",
+		"imgSrc": "images/11-12-butcher.png"
+	},
+	{
+		"name": "Miner",
+		"bucket": "11",
+		"imgSrc": "images/11-12-miner.png"
+	}
+]
