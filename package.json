@@ -1,7 +1,7 @@
 {
-  "name": "valeria-card-kingdoms",
+  "name": "The Duke",
   "version": "1.0.0",
-  "description": "",
+  "description": "Randomizer for Valeria Card Kingdoms",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --hot",
