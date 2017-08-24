@@ -2,71 +2,79 @@
 	{
 		"name": "Barrens",
 		"bucket": "monster",
+		"sortOrder": 1,
 		"imgSrc": "images/monster-barrens.png"
 	},
 	{
 		"name": "Cavern",
 		"bucket": "monster",
+		"sortOrder": 6,
 		"imgSrc": "images/monster-cavern.png"
 	},
 	{
 		"name": "Desert",
 		"bucket": "monster",
+		"sortOrder": 4,
 		"imgSrc": "images/monster-desert.png"
 	},
 	{
 		"name": "Forest",
 		"bucket": "monster",
+		"sortOrder": 3,
 		"imgSrc": "images/monster-forest.png"
 	},
 	{
 		"name": "Glacier",
 		"bucket": "monster",
+		"sortOrder": 7,
 		"imgSrc": "images/monster-glacier.png"
 	},
 	{
 		"name": "Hills",
 		"bucket": "monster",
+		"sortOrder": 1,
 		"imgSrc": "images/monster-hills.png"
 	},
 	{
 		"name": "Mountains",
 		"bucket": "monster",
+		"sortOrder": 5,
 		"imgSrc": "images/monster-mountains.png"
 	},
 	{
 		"name": "Oasis",
 		"bucket": "monster",
+		"sortOrder": 4,
 		"imgSrc": "images/monster-oasis.png"
 	},
 	{
 		"name": "Ruins",
 		"bucket": "monster",
+		"sortOrder": 2,
 		"imgSrc": "images/monster-ruins.png"
 	},
 	{
 		"name": "Swamp",
 		"bucket": "monster",
+		"sortOrder": 5,
 		"imgSrc": "images/monster-swamp.png"
 	},
 	{
 		"name": "Tundra",
 		"bucket": "monster",
+		"sortOrder": 5,
 		"imgSrc": "images/monster-tundra.png"
-	},
-	{
-		"name": "Undead Samurai",
-		"bucket": "monster",
-		"imgSrc": "images/monster-undead-samurai.png"
 	},
 	{
 		"name": "Valley",
 		"bucket": "monster",
+		"sortOrder": 4,
 		"imgSrc": "images/monster-valley.png"
 	},
 	{
 		"name": "Volcano",
 		"bucket": "monster",
+		"sortOrder": 8,
 		"imgSrc": "images/monster-volcano.png"
 	},
 	{
