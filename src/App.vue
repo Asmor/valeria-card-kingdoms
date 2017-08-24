@@ -1,4 +1,5 @@
 <script>
+import card from "./components/card.vue";
 export default {
 	name: "app",
 	data () {
@@ -6,7 +7,9 @@ export default {
 			msg: "Hello, world!",
 		};
 	},
-	components: {},
+	components: {
+		card,
+	},
 };
 </script>
 
@@ -15,6 +18,7 @@ export default {
 		<h1>
 			Hello?
 		</h1>
+		<card :title="msg"></card>
 	</div>
 </template>
 
