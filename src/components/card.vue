@@ -20,9 +20,8 @@ export default {
 <style lang="scss">
 .card {
 	max-width: 20%;
-	max-height: 25%;
-	flex: 0 0 20%;
 	text-align: center;
+	display: inline-block;
 
 	.card--title {
 		text-align: center;

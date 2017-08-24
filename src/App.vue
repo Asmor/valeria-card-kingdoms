@@ -41,14 +41,4 @@ export default {
 body {
 	background: url("../images/grass-tile.jpg");
 }
-
-.card-list {
-	display: flex;
-	flex-wrap: wrap;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-}
 </style>
