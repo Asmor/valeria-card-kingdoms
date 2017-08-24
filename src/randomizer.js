@@ -39,20 +39,25 @@ function shuffle(array) {
 	return array;
 }
 
-var cards = [];
+function getCardSet() {
+	var cards = [];
 
-var shuffledMonsters = shuffle(buckets.monster);
-shuffledMonsters
-	.slice(0,5)
-	.sort((a, b) => a.sortOrder - b.sortOrder)
-	.forEach(card => cards.push(card));
+	var shuffledMonsters = shuffle(buckets.monster);
+	shuffledMonsters
+		.slice(0,5)
+		.sort((a, b) => a.sortOrder - b.sortOrder)
+		.forEach(card => cards.push(card));
 
-["01", "02", "03", "04", "05", "06", "07", "08", "09", "11"].forEach(key => {
-	let list = buckets[key];
-	cards.push(list[Math.floor(Math.random() * list.length)]);
-});
+	["01", "02", "03", "04", "05", "06", "07", "08", "09", "11"].forEach(key => {
+		let list = buckets[key];
+		cards.push(list[Math.floor(Math.random() * list.length)]);
+	});
+
+	return cards;
+}
+
 
 export {
-	cards,
-	cardData
+	cardData,
+	getCardSet,
 };

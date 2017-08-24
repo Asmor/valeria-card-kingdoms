@@ -2,15 +2,20 @@
 "use strict";
 
 import card from "./components/card.vue";
-import { cards, cardData } from "./randomizer.js";
+import { getCardSet, cardData } from "./randomizer.js";
 
 export default {
 	name: "app",
 	data () {
 		return {
-			cards,
+			cards: getCardSet(),
 			cardData,
 		};
+	},
+	methods: {
+		randomize: function () {
+			this.cards = getCardSet();
+		}
 	},
 	components: {
 		card,
@@ -20,9 +25,16 @@ export default {
 
 <template>
 	<div id="app">
-		<b-navbar toggleable="md" type="dark" variant="info">
-			<b-nav-toggle target="nav_collapse"></b-nav-toggle>
+		<b-navbar toggleable="md" type="dark" variant="dark" sticky="true">
+			<!-- <b-nav-toggle target="nav-collapse"></b-nav-toggle> -->
 			<b-navbar-brand href="#">The Duke</b-navbar-brand>
+			<b-nav is-nav-bar class="ml-auto">
+				<b-button
+					variant="primary"
+					@click="randomize()"
+				>Randomize</b-button>
+			</b-nav>
+			<!-- <b-collapse is-nav id="nav-collapse"></b-collapse> -->
 		</b-navbar>
 		<div class="card-list">
 			<card
@@ -44,5 +56,9 @@ export default {
 
 body {
 	background: url("../images/grass-tile.jpg");
+}
+
+.card-list {
+	margin-top: 10px;
 }
 </style>

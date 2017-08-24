@@ -3,218 +3,218 @@
 		"name": "Barrens",
 		"bucket": "monster",
 		"sortOrder": 1,
-		"imgSrc": "images/monster-barrens.png"
+		"imgSrc": "images/monster-barrens.jpg"
 	},
 	{
 		"name": "Cavern",
 		"bucket": "monster",
 		"sortOrder": 6,
-		"imgSrc": "images/monster-cavern.png"
+		"imgSrc": "images/monster-cavern.jpg"
 	},
 	{
 		"name": "Desert",
 		"bucket": "monster",
 		"sortOrder": 4,
-		"imgSrc": "images/monster-desert.png"
+		"imgSrc": "images/monster-desert.jpg"
 	},
 	{
 		"name": "Forest",
 		"bucket": "monster",
 		"sortOrder": 3,
-		"imgSrc": "images/monster-forest.png"
+		"imgSrc": "images/monster-forest.jpg"
 	},
 	{
 		"name": "Glacier",
 		"bucket": "monster",
 		"sortOrder": 7,
-		"imgSrc": "images/monster-glacier.png"
+		"imgSrc": "images/monster-glacier.jpg"
 	},
 	{
 		"name": "Hills",
 		"bucket": "monster",
 		"sortOrder": 1,
-		"imgSrc": "images/monster-hills.png"
+		"imgSrc": "images/monster-hills.jpg"
 	},
 	{
 		"name": "Mountains",
 		"bucket": "monster",
 		"sortOrder": 5,
-		"imgSrc": "images/monster-mountains.png"
+		"imgSrc": "images/monster-mountains.jpg"
 	},
 	{
 		"name": "Oasis",
 		"bucket": "monster",
 		"sortOrder": 4,
-		"imgSrc": "images/monster-oasis.png"
+		"imgSrc": "images/monster-oasis.jpg"
 	},
 	{
 		"name": "Ruins",
 		"bucket": "monster",
 		"sortOrder": 2,
-		"imgSrc": "images/monster-ruins.png"
+		"imgSrc": "images/monster-ruins.jpg"
 	},
 	{
 		"name": "Swamp",
 		"bucket": "monster",
 		"sortOrder": 5,
-		"imgSrc": "images/monster-swamp.png"
+		"imgSrc": "images/monster-swamp.jpg"
 	},
 	{
 		"name": "Tundra",
 		"bucket": "monster",
 		"sortOrder": 5,
-		"imgSrc": "images/monster-tundra.png"
+		"imgSrc": "images/monster-tundra.jpg"
 	},
 	{
 		"name": "Valley",
 		"bucket": "monster",
 		"sortOrder": 4,
-		"imgSrc": "images/monster-valley.png"
+		"imgSrc": "images/monster-valley.jpg"
 	},
 	{
 		"name": "Volcano",
 		"bucket": "monster",
 		"sortOrder": 8,
-		"imgSrc": "images/monster-volcano.png"
+		"imgSrc": "images/monster-volcano.jpg"
 	},
 	{
 		"name": "Cleric",
 		"bucket": "01",
-		"imgSrc": "images/01-cleric.png"
+		"imgSrc": "images/01-cleric.jpg"
 	},
 	{
 		"name": "Monk",
 		"bucket": "01",
-		"imgSrc": "images/01-monk.png"
+		"imgSrc": "images/01-monk.jpg"
 	},
 	{
 		"name": "Summoner",
 		"bucket": "01",
-		"imgSrc": "images/01-summoner.png"
+		"imgSrc": "images/01-summoner.jpg"
 	},
 	{
 		"name": "Bard",
 		"bucket": "02",
-		"imgSrc": "images/02-bard.png"
+		"imgSrc": "images/02-bard.jpg"
 	},
 	{
 		"name": "Blacksmith",
 		"bucket": "02",
-		"imgSrc": "images/02-blacksmith.png"
+		"imgSrc": "images/02-blacksmith.jpg"
 	},
 	{
 		"name": "Merchant",
 		"bucket": "02",
-		"imgSrc": "images/02-merchant.png"
+		"imgSrc": "images/02-merchant.jpg"
 	},
 	{
 		"name": "Alchemist",
 		"bucket": "03",
-		"imgSrc": "images/03-alchemist.png"
+		"imgSrc": "images/03-alchemist.jpg"
 	},
 	{
 		"name": "Mercenary",
 		"bucket": "03",
-		"imgSrc": "images/03-mercenary.png"
+		"imgSrc": "images/03-mercenary.jpg"
 	},
 	{
 		"name": "Sorceress",
 		"bucket": "03",
-		"imgSrc": "images/03-sorceress.png"
+		"imgSrc": "images/03-sorceress.jpg"
 	},
 	{
 		"name": "Archer",
 		"bucket": "04",
-		"imgSrc": "images/04-archer.png"
+		"imgSrc": "images/04-archer.jpg"
 	},
 	{
 		"name": "Barbarian",
 		"bucket": "04",
-		"imgSrc": "images/04-barbarian.png"
+		"imgSrc": "images/04-barbarian.jpg"
 	},
 	{
 		"name": "Wizard",
 		"bucket": "04",
-		"imgSrc": "images/04-wizard.png"
+		"imgSrc": "images/04-wizard.jpg"
 	},
 	{
 		"name": "Alt. Peasant",
 		"bucket": "05",
-		"imgSrc": "images/05-alt-peasant.png"
+		"imgSrc": "images/05-alt-peasant.jpg"
 	},
 	{
 		"name": "Peasant",
 		"bucket": "05",
-		"imgSrc": "images/05-peasant.png"
+		"imgSrc": "images/05-peasant.jpg"
 	},
 	{
 		"name": "Alt. Knight",
 		"bucket": "06",
-		"imgSrc": "images/06-alt-knight.png"
+		"imgSrc": "images/06-alt-knight.jpg"
 	},
 	{
 		"name": "Knight",
 		"bucket": "06",
-		"imgSrc": "images/06-knight.png"
+		"imgSrc": "images/06-knight.jpg"
 	},
 	{
 		"name": "Condottiere",
 		"bucket": "07",
-		"imgSrc": "images/07-condottiere.png"
+		"imgSrc": "images/07-condottiere.jpg"
 	},
 	{
 		"name": "Rogue",
 		"bucket": "07",
-		"imgSrc": "images/07-rogue.png"
+		"imgSrc": "images/07-rogue.jpg"
 	},
 	{
 		"name": "Thief",
 		"bucket": "07",
-		"imgSrc": "images/07-thief.png"
+		"imgSrc": "images/07-thief.jpg"
 	},
 	{
 		"name": "Bogatyr",
 		"bucket": "08",
-		"imgSrc": "images/08-bogatyr.png"
+		"imgSrc": "images/08-bogatyr.jpg"
 	},
 	{
 		"name": "Champion",
 		"bucket": "08",
-		"imgSrc": "images/08-champion.png"
+		"imgSrc": "images/08-champion.jpg"
 	},
 	{
 		"name": "Warlord",
 		"bucket": "08",
-		"imgSrc": "images/08-warlord.png"
+		"imgSrc": "images/08-warlord.jpg"
 	},
 	{
 		"name": "Paladin",
 		"bucket": "09",
-		"imgSrc": "images/09-10-paladin.png"
+		"imgSrc": "images/09-10-paladin.jpg"
 	},
 	{
 		"name": "Priestess",
 		"bucket": "09",
-		"imgSrc": "images/09-10-priestess.png"
+		"imgSrc": "images/09-10-priestess.jpg"
 	},
 	{
 		"name": "Templar",
 		"bucket": "09",
-		"imgSrc": "images/09-10-templar.png"
+		"imgSrc": "images/09-10-templar.jpg"
 	},
 	{
 		"name": "Baker",
 		"bucket": "11",
-		"imgSrc": "images/11-12-baker.png"
+		"imgSrc": "images/11-12-baker.jpg"
 	},
 	{
 		"name": "Butcher",
 		"bucket": "11",
-		"imgSrc": "images/11-12-butcher.png"
+		"imgSrc": "images/11-12-butcher.jpg"
 	},
 	{
 		"name": "Miner",
 		"bucket": "11",
-		"imgSrc": "images/11-12-miner.png"
+		"imgSrc": "images/11-12-miner.jpg"
 	}
 ]
