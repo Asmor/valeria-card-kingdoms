@@ -44,14 +44,11 @@ export default {
 <template>
 	<div id="app">
 		<b-navbar toggleable="md" type="dark" variant="dark" :sticky="true">
-			<b-nav-toggle target="nav-collapse"></b-nav-toggle>
 			<b-navbar-brand href="#">The Duke</b-navbar-brand>
-			<b-collapse is-nav id="nav-collapse">
-				<b-button
-					variant="secondary"
-					v-b-modal.options-modal
-				>Options</b-button>
-			</b-collapse>
+			<b-button
+				variant="secondary"
+				v-b-modal.options-modal
+			>Options</b-button>
 			<b-nav is-nav-bar class="ml-auto">
 				<b-button
 					variant="primary"
