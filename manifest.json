@@ -1,0 +1,14 @@
+{
+	"short_name": "The Duke",
+	"name": "The Duke: Valeria Card Kingdoms Randomizer",
+	"icons": [
+		{
+			"src": "images/icon.jpg",
+			"sizes": "611x611",
+			"type": "image/jpg"
+		}
+	],
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait"
+}
