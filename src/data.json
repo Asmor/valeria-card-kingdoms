@@ -264,5 +264,100 @@
 		"name": "Miner",
 		"bucket": "11",
 		"imgSrc": "images/11-12-miner.jpg"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Crypt",
+		"bucket": "monster",
+		"sortOrder": 5,
+		"imgSrc": "images/monster-crypt.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Den",
+		"bucket": "monster",
+		"sortOrder": 4,
+		"imgSrc": "images/monster-den.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Necropolis",
+		"bucket": "monster",
+		"sortOrder": 2,
+		"imgSrc": "images/monster-necropolis.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Sewer",
+		"bucket": "monster",
+		"sortOrder": 2.1,
+		"imgSrc": "images/monster-sewer.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Woods",
+		"bucket": "monster",
+		"sortOrder": 4.1,
+		"imgSrc": "images/monster-woods.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Exorcist",
+		"bucket": "01",
+		"imgSrc": "images/01-exorcist.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Lumberjack",
+		"bucket": "02",
+		"imgSrc": "images/02-lumberjack.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Bandit",
+		"bucket": "03",
+		"imgSrc": "images/03-bandit.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Hunter",
+		"bucket": "04",
+		"imgSrc": "images/04-hunter.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Peasant (magic)",
+		"bucket": "05",
+		"imgSrc": "images/05-peasant-magic.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Knight (gold)",
+		"bucket": "06",
+		"imgSrc": "images/06-knight-gold.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Necromancer",
+		"bucket": "07",
+		"imgSrc": "images/07-necromancer.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Guardian",
+		"bucket": "08",
+		"imgSrc": "images/08-guardian.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Dragoon",
+		"bucket": "09",
+		"imgSrc": "images/09-10-dragoon.png"
+	},
+	{
+		"set": "shadowvale",
+		"name": "Inventor",
+		"bucket": "11",
+		"imgSrc": "images/11-12-inventor.png"
 	}
 ]
