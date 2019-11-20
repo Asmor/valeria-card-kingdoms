@@ -359,5 +359,100 @@
 		"name": "Inventor",
 		"bucket": "11",
 		"imgSrc": "images/11-12-inventor.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Hydromancer",
+		"bucket": "01",
+		"imgSrc": "images/01-hydromancer.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Engineer",
+		"bucket": "02",
+		"imgSrc": "images/02-engineer.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Vitki",
+		"bucket": "03",
+		"imgSrc": "images/03-vitki.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Marauder",
+		"bucket": "04",
+		"imgSrc": "images/04-marauder.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Peasant (CS)",
+		"bucket": "05",
+		"imgSrc": "images/05-peasant-cs.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Knight (CS)",
+		"bucket": "06",
+		"imgSrc": "images/06-knight-cs.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Smuggler",
+		"bucket": "07",
+		"imgSrc": "images/07-smuggler.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Dreadnaught",
+		"bucket": "08",
+		"imgSrc": "images/08-dreadnaught.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Conjurer",
+		"bucket": "09",
+		"imgSrc": "images/09-10-conjurer.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Purser",
+		"bucket": "11",
+		"imgSrc": "images/11-12-purser.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Cutthroats",
+		"bucket": "monster",
+		"sortOrder": 3.1,
+		"imgSrc": "images/monster-cutthroats.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Dark Waters",
+		"bucket": "monster",
+		"sortOrder": 3,
+		"imgSrc": "images/monster-dark-waters.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Gloom Gyre",
+		"bucket": "monster",
+		"sortOrder": 3.2,
+		"imgSrc": "images/monster-gloom-gyre.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "Skerry",
+		"bucket": "monster",
+		"sortOrder": 4.1,
+		"imgSrc": "images/monster-skerry.png"
+	},
+	{
+		"set": "crimsonSeas",
+		"name": "The Deep",
+		"bucket": "monster",
+		"sortOrder": 2.1,
+		"imgSrc": "images/monster-the-deep.png"
 	}
 ]
