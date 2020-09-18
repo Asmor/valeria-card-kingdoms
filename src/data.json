@@ -457,9 +457,9 @@
   },
   {
     "set": "gnollPack",
-    "name": "Knolls",
+    "name": "Gnolls",
     "bucket": "monster",
     "sortOrder": 9,
-    "imgSrc": "images/monster-knolls.png"
+    "imgSrc": "images/monster-gnolls.png"
   }
 ]
