@@ -456,10 +456,10 @@
     "imgSrc": "images/monster-the-deep.png"
   },
   {
-    "set": "gnollPack",
-    "name": "Gnolls",
+    "set": "gnollMonsterPack",
+    "name": "Knolls",
     "bucket": "monster",
-    "sortOrder": 9,
-    "imgSrc": "images/monster-gnolls.png"
+    "sortOrder": 7.1,
+    "imgSrc": "images/monster-knolls.png"
   }
 ]
