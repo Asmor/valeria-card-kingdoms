@@ -12,6 +12,7 @@ const setNames = {
 	flamesAndFrost: "Flames and Frost",
 	shadowvale: "Shadowvale",
 	crimsonSeas: "Crimson Seas",
+  gnollPack: "Gnoll Pack",
 };
 let setFilters = JSON.parse(window.localStorage[setStorageKey] || "{}");
 Object.keys(setNames).forEach(key => {
